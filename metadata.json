@@ -1,0 +1,8 @@
+{
+  "name": "StyleSync AI",
+  "description": "Your Style. Your Fit. Your Personal AI Stylist. AI-powered personalized fashion intelligence, virtual try-on, digital wardrobe, and smart e-commerce comparison platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
